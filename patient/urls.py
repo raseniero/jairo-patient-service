@@ -11,6 +11,7 @@ urlpatterns = [
         views.PatientRetrieveUpdateDestroy.as_view(),
         name="patient-detail",
     ),  # patient detail view
+    path("", views.api_root),  # root view
 ]
 
 urlpatterns = format_suffix_patterns(urlpatterns)
