@@ -29,6 +29,7 @@ To access the endpoints, send HTTP requests to the corresponding URLs using a to
 
 - `https://djangoforapis.com/initial-setup/` : Django for APIs Initial Setup
 - `https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners` : Django Rest Framework Tutorial
+- `https://docs.djangoproject.com/en/4.2/howto/static-files/deployment/` : How to deploy static files
 
 ## Testing
 
