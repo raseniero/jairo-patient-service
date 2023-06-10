@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ec^7@flg0_d0jp=y715^4a04-o_au8s=@04zi(3(cy6kdkiizn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "jairo-patient-service.azurewebsites.net"]
+ALLOWED_HOSTS = ["localhost", "jairo-patient-service.azurewebsites.net", "127.0.0.1"]
 
 
 # Application definition
